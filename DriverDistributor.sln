@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}"
+	ProjectSection(SolutionItems) = preProject
+		src\DriverDistributor.accdb = src\DriverDistributor.accdb
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.Api", "src\DriverDistributor.Api\DriverDistributor.Api.csproj", "{D8A21FAA-8C29-4E20-A719-551776756FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.Blazor", "src\DriverDistributor.Blazor\DriverDistributor.Blazor.csproj", "{80483928-33E6-43DD-A56D-AD4B10A72A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.Services", "src\DriverDistributor.Services\DriverDistributor.Services.csproj", "{EB5A0985-ACAD-420D-A80C-7A5092648973}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D7210832-5638-462E-9C01-97F9E7C1DC30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.Shared", "src\DriverDistributor.Shared\DriverDistributor.Shared.csproj", "{17003BB2-FE2F-4E60-B08C-DD9FF26774A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.Infrastructure", "src\DriverDistributor.Infrastructure\DriverDistributor.Infrastructure.csproj", "{A216B111-AF9A-4A38-961A-05C6EB2642CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.Application", "src\DriverDistributor.Application\DriverDistributor.Application.csproj", "{CBA1744B-65EB-448F-BBAE-BA1E8D64F7BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.Core", "src\DriverDistributor.Core\DriverDistributor.Core.csproj", "{74991BB7-5ACE-4851-B637-66F4F4334F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.UnitTests", "tests\DriverDistributor.UnitTests\DriverDistributor.UnitTests.csproj", "{4E6C13DB-56F5-4F4B-9738-1E1CAB39B551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.IntegrationTests", "tests\DriverDistributor.IntegrationTests\DriverDistributor.IntegrationTests.csproj", "{672323FF-BCD0-4722-B7CF-0E747D9E915E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.BDDTests", "tests\DriverDistributor.BDDTests\DriverDistributor.BDDTests.csproj", "{D8B8A801-7931-4D00-AF18-52B301F55FD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UIs", "UIs", "{37CDD197-7BBA-488F-9E61-62F2B2659997}"
+	ProjectSection(SolutionItems) = preProject
+		src\DriverDistributorDatabase.accdb = src\DriverDistributorDatabase.accdb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8A21FAA-8C29-4E20-A719-551776756FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A21FAA-8C29-4E20-A719-551776756FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A21FAA-8C29-4E20-A719-551776756FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A21FAA-8C29-4E20-A719-551776756FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80483928-33E6-43DD-A56D-AD4B10A72A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80483928-33E6-43DD-A56D-AD4B10A72A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80483928-33E6-43DD-A56D-AD4B10A72A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80483928-33E6-43DD-A56D-AD4B10A72A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5A0985-ACAD-420D-A80C-7A5092648973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5A0985-ACAD-420D-A80C-7A5092648973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5A0985-ACAD-420D-A80C-7A5092648973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5A0985-ACAD-420D-A80C-7A5092648973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17003BB2-FE2F-4E60-B08C-DD9FF26774A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17003BB2-FE2F-4E60-B08C-DD9FF26774A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17003BB2-FE2F-4E60-B08C-DD9FF26774A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17003BB2-FE2F-4E60-B08C-DD9FF26774A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A216B111-AF9A-4A38-961A-05C6EB2642CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A216B111-AF9A-4A38-961A-05C6EB2642CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A216B111-AF9A-4A38-961A-05C6EB2642CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A216B111-AF9A-4A38-961A-05C6EB2642CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA1744B-65EB-448F-BBAE-BA1E8D64F7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA1744B-65EB-448F-BBAE-BA1E8D64F7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA1744B-65EB-448F-BBAE-BA1E8D64F7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA1744B-65EB-448F-BBAE-BA1E8D64F7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74991BB7-5ACE-4851-B637-66F4F4334F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74991BB7-5ACE-4851-B637-66F4F4334F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74991BB7-5ACE-4851-B637-66F4F4334F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74991BB7-5ACE-4851-B637-66F4F4334F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6C13DB-56F5-4F4B-9738-1E1CAB39B551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6C13DB-56F5-4F4B-9738-1E1CAB39B551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6C13DB-56F5-4F4B-9738-1E1CAB39B551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6C13DB-56F5-4F4B-9738-1E1CAB39B551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672323FF-BCD0-4722-B7CF-0E747D9E915E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672323FF-BCD0-4722-B7CF-0E747D9E915E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672323FF-BCD0-4722-B7CF-0E747D9E915E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672323FF-BCD0-4722-B7CF-0E747D9E915E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B8A801-7931-4D00-AF18-52B301F55FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B8A801-7931-4D00-AF18-52B301F55FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B8A801-7931-4D00-AF18-52B301F55FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B8A801-7931-4D00-AF18-52B301F55FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E6C13DB-56F5-4F4B-9738-1E1CAB39B551} = {D7210832-5638-462E-9C01-97F9E7C1DC30}
+		{672323FF-BCD0-4722-B7CF-0E747D9E915E} = {D7210832-5638-462E-9C01-97F9E7C1DC30}
+		{D8B8A801-7931-4D00-AF18-52B301F55FD3} = {D7210832-5638-462E-9C01-97F9E7C1DC30}
+		{37CDD197-7BBA-488F-9E61-62F2B2659997} = {89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}
+		{80483928-33E6-43DD-A56D-AD4B10A72A1A} = {37CDD197-7BBA-488F-9E61-62F2B2659997}
+		{D8A21FAA-8C29-4E20-A719-551776756FD5} = {89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}
+		{CBA1744B-65EB-448F-BBAE-BA1E8D64F7BE} = {89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}
+		{74991BB7-5ACE-4851-B637-66F4F4334F25} = {89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}
+		{A216B111-AF9A-4A38-961A-05C6EB2642CE} = {89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}
+		{EB5A0985-ACAD-420D-A80C-7A5092648973} = {89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}
+		{17003BB2-FE2F-4E60-B08C-DD9FF26774A4} = {89AEC8CA-4515-46CC-AC6B-2A7C0D334ACD}
+	EndGlobalSection
+EndGlobal

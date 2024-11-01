@@ -1,0 +1,32 @@
+﻿@page "/"
+@using System.Collections.Frozen
+@using System.Reflection.PortableExecutable
+@using DriverDistributor.Entities
+@using DriverDistributor.Entities.Shipment
+
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+
+<EditForm Model="@shipment" OnValidSubmit="HandleValidSubmit">
+    <div class="row mb-3">
+        <div class="col-4">
+            <label for="driverName">نام راننده</label>
+            <InputText id="driverName" class="form-control" @bind-Value="shipment.DriverName"/>
+            <ValidationMessage For="@(() => shipment.DriverName)"/>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</EditForm>
+
+
+@code{
+    Shipment shipment = new Shipment();
+
+    void HandleValidSubmit()
+    {
+    }
+
+}

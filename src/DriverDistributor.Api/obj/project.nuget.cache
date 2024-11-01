@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "aAA8lqJUrBc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\DriverDistributor.Api\\DriverDistributor.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-rc.2.24474.3\\microsoft.aspnetcore.openapi.9.0.0-rc.2.24474.3.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\microsoft.office.interop.access\\15.0.4420.1018\\microsoft.office.interop.access.15.0.4420.1018.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\scalar.aspnetcore\\1.2.25\\scalar.aspnetcore.1.2.25.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.9.0\\swashbuckle.aspnetcore.6.9.0.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.9.0\\swashbuckle.aspnetcore.swagger.6.9.0.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.9.0\\swashbuckle.aspnetcore.swaggergen.6.9.0.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.9.0\\swashbuckle.aspnetcore.swaggerui.6.9.0.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\system.data.oledb\\8.0.1\\system.data.oledb.8.0.1.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.1\\system.diagnostics.performancecounter.8.0.1.nupkg.sha512",
+    "C:\\Users\\a.rahmanian\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

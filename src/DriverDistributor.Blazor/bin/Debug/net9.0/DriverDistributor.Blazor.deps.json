@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DriverDistributor.Blazor/1.0.0": {
+        "dependencies": {
+          "DriverDistributor.Entities": "1.0.0"
+        },
+        "runtime": {
+          "DriverDistributor.Blazor.dll": {}
+        }
+      },
+      "DriverDistributor.Entities/1.0.0": {
+        "runtime": {
+          "DriverDistributor.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DriverDistributor.Blazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DriverDistributor.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

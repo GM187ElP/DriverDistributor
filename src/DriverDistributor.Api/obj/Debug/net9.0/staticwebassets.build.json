@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7/fPiD7+wJar3k7G/2zasJOgfXfIgnaAZN7dp3Zuvbk=",
+  "Source": "DriverDistributor.Api",
+  "BasePath": "_content/DriverDistributor.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
