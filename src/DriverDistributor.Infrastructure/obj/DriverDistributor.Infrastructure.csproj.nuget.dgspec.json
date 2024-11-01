@@ -107,6 +107,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.10, )"
