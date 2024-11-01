@@ -28,9 +28,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverDistributor.BDDTests", "tests\DriverDistributor.BDDTests\DriverDistributor.BDDTests.csproj", "{D8B8A801-7931-4D00-AF18-52B301F55FD3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UIs", "UIs", "{37CDD197-7BBA-488F-9E61-62F2B2659997}"
-	ProjectSection(SolutionItems) = preProject
-		src\DriverDistributorDatabase.accdb = src\DriverDistributorDatabase.accdb
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
