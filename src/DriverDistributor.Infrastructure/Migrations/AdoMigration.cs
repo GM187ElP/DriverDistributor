@@ -86,14 +86,14 @@ public class AdoMigration
             @"
             CREATE TABLE ShipmentList (
             Id AUTOINCREMENT PRIMARY KEY,
-            DriverId LONG NOT NULL,
-            DistributorId LONG NOT NULL,
-            RouteId LONG NOT NULL,
-            WarehouseId LONG NOT NULL,
+            DriverId INTEGER NOT NULL,
+            DistributorId INTEGER NOT NULL,
+            RouteId INTEGER NOT NULL,
+            WarehouseId INTEGER NOT NULL,
             ShipmentDate DATETIME NOT NULL,
-            InvoiceCount LONG NOT NULL,
-            InvoiceAmount LONG NOT NULL,
-            ShipmentCount LONG NOT NULL,
+            InvoiceCount INTEGER NOT NULL,
+            InvoiceAmount INTEGER NOT NULL,
+            ShipmentCount INTEGER NOT NULL,
             FOREIGN KEY (DriverId) REFERENCES Drivers(Id),
             FOREIGN KEY (DistributorId) REFERENCES Distributor(Id),
             FOREIGN KEY (RouteId) REFERENCES Routes(Id),
@@ -103,8 +103,8 @@ public class AdoMigration
             @"
             CREATE TABLE ShipmentNumbers (
             Id AUTOINCREMENT PRIMARY KEY,
-            Number TEXT(10) NOT NULL,
-            ShipmentId LONG NOT NULL,
+            ShipmentNumber TEXT(10) NOT NULL,
+            ShipmentId INTEGER NOT NULL,
             FOREIGN KEY (ShipmentId) REFERENCES ShipmentList(Id)
             );"
         };

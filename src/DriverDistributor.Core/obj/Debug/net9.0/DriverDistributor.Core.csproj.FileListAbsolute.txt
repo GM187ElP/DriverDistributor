@@ -1,0 +1,12 @@
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\bin\Debug\net9.0\DriverDistributor.Core.deps.json
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\bin\Debug\net9.0\DriverDistributor.Core.dll
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\bin\Debug\net9.0\DriverDistributor.Core.pdb
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\DriverDistributor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\DriverDistributor.Core.AssemblyInfoInputs.cache
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\DriverDistributor.Core.AssemblyInfo.cs
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\DriverDistributor.Core.csproj.CoreCompileInputs.cache
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\DriverDistributor.Core.sourcelink.json
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\DriverDistributor.Core.dll
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\refint\DriverDistributor.Core.dll
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\DriverDistributor.Core.pdb
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Core\obj\Debug\net9.0\ref\DriverDistributor.Core.dll

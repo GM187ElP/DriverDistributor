@@ -1,0 +1,16 @@
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\bin\Debug\net9.0\DriverDistributor.Infrastructure.deps.json
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\bin\Debug\net9.0\DriverDistributor.Infrastructure.dll
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\bin\Debug\net9.0\DriverDistributor.Infrastructure.pdb
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\bin\Debug\net9.0\DriverDistributor.Core.dll
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\bin\Debug\net9.0\DriverDistributor.Core.pdb
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.AssemblyInfo.cs
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.sourcelink.json
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDi.6DA7E7A5.Up2Date
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.dll
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\refint\DriverDistributor.Infrastructure.dll
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\DriverDistributor.Infrastructure.pdb
+C:\Users\a.rahmanian\RiderProjects\DriverDistributor\src\DriverDistributor.Infrastructure\obj\Debug\net9.0\ref\DriverDistributor.Infrastructure.dll

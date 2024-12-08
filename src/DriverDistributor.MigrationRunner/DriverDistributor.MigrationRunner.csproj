@@ -6,4 +6,8 @@
     <TargetFramework>net9.0</TargetFramework>  <!-- .NET 9.0 target -->
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DriverDistributor.Infrastructure\DriverDistributor.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
