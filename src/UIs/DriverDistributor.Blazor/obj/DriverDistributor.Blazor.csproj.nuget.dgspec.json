@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj": {}
+    "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\UIs\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj": {
+    "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\UIs\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj",
+        "projectUniqueName": "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\UIs\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj",
         "projectName": "DriverDistributor.Blazor",
-        "projectPath": "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj",
+        "projectPath": "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\UIs\\DriverDistributor.Blazor\\DriverDistributor.Blazor.csproj",
         "packagesPath": "C:\\Users\\a.rahmanian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\DriverDistributor.Blazor\\obj\\",
+        "outputPath": "C:\\Users\\a.rahmanian\\RiderProjects\\DriverDistributor\\src\\UIs\\DriverDistributor.Blazor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
