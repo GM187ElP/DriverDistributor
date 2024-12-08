@@ -3,7 +3,6 @@ using DriverDistributor.Infrastructure.Migrations;
 using FluentMigrator.Runner;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.DependencyInjection;
-using DbType = DriverDistributor.Infrastructure.Migrations.DbType;
 
 namespace MigrationRunner;
 
